@@ -1,0 +1,10 @@
+Todo:
+- Rework Disco Bird
+- UI Rock Paper Scissors
+- Tinder for Series
+- Homepage
+- Chess LAN or WAN
+- Recipesgenerator / Recipes Book
+- Number Painting (Mobile) 
+
+Done:
