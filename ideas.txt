@@ -8,3 +8,4 @@ Todo:
 - Number Painting (Mobile) 
 - Enhancements for Conways Game of Live Blazor WASM
 - Lock Escape Blazor WASM for Teachers and Students
+- Event Sync Velocity Calculator
