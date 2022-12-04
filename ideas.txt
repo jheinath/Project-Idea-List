@@ -6,5 +6,5 @@ Todo:
 - Chess LAN or WAN
 - Recipesgenerator / Recipes Book
 - Number Painting (Mobile) 
-
-Done:
+- Enhancements for Conways Game of Live Blazor WASM
+- Lock Escape Blazor WASM for Teachers and Students
