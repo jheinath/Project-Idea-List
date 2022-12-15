@@ -8,5 +8,9 @@ Todo:
 - Number Painting (Mobile) 
 - Enhancements for Conways Game of Live Blazor WASM -> in progress
 - Lock Escape Blazor WASM for Teachers and Students -> in progress
-- Event Sync Velocity Calculator -> in progress
 - Custom PDF Merge Tool using iText 7 dotnet
+- Portfolio Homepage on Github pages with React, Typescript and Material UI
+
+Done:
+
+- Event Sync Velocity Calculator
