@@ -6,11 +6,13 @@ Todo:
 - Chess LAN or WAN
 - Recipesgenerator / Recipes Book
 - Number Painting (Mobile) 
-- Enhancements for Conways Game of Live Blazor WASM -> in progress
 - Lock Escape Blazor WASM for Teachers and Students -> in progress
 - Custom PDF Merge Tool using iText 7 dotnet
 - Portfolio Homepage on Github pages with React, Typescript and Material UI
+- Magic Mirror Plugin for thermo sensor
+- Magic Mirror Plugin for Website stats
 
 Done:
 
 - Event Sync Velocity Calculator
+- Enhancements for Conways Game of Live Blazor WASM
