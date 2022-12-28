@@ -11,6 +11,7 @@ Todo:
 - Portfolio Homepage on Github pages with React, Typescript and Material UI
 - Magic Mirror Plugin for thermo sensor
 - Magic Mirror Plugin for Website stats
+- Magic Mirror Plugin to display the meal suggestions 
 
 Done:
 
