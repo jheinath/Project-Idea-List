@@ -12,6 +12,7 @@ Todo:
 - Magic Mirror Plugin for thermo sensor
 - Magic Mirror Plugin for Website stats
 - Magic mirror Plugin standup timer
+- Magic Mirror Plugin to Display anti-joke of the day
 - Magic Mirror Plugin to display current days/week/month count of a person 
 - Magic Mirror Plugin to display the meal suggestions 
 
