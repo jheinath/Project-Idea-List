@@ -16,6 +16,7 @@ Todo:
 - Magic Mirror Plugin to display current days/week/month count of a person 
 - Magic Mirror Plugin to display the meal suggestions 
 - event sync velocity with blazor wasm hosted in GitHub pages
+- nuget pdf gen with blazor and playwright
 
 Done:
 
